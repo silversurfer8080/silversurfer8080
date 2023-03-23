@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm the a silver surfer from the 80's, I'm here to learn and share code.
 
+- 🔭 I’m currently working on some Java projects with Spring
+- 🌱 I’m currently learning Python 🐍 
+- ⚡ Fun fact: I'm really a surfer 🏄 
 <!--
 **silversurfer8080/silversurfer8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
