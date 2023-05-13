@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=silversurfer8080&theme=dracula&hide_border=true)
